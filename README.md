@@ -15,7 +15,7 @@ This repository contains the source code for a burger website created using HTML
 
 To view the website locally:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/burger-website.git`
+1. Clone this repository to your local machine using `git clone https://github.com/kaleem2408/burger-website.git`
 2. Navigate to the project directory: `cd burger-website`
 3. Open `index.html` in your web browser.
 
@@ -45,6 +45,6 @@ This project was inspired by [Burger Point](http://burgercorner.com) and utilize
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [my-email](mailto:abdulkaleem84214@gmail.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at [abdulkaleem84214@gamil.com](mailto:abdulkaleem84214@gmail.com).
 
 ---
