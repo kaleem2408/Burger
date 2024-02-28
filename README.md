@@ -45,6 +45,6 @@ This project was inspired by [Burger Point](http://burgercorner.com) and utilize
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [abdulkaleem84214@gamil.com](mailto:abdulkaleem84214@gmail.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at [abdulkaleem84214@gmail.com](mailto:abdulkaleem84214@gmail.com).
 
 ---
