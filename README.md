@@ -2,7 +2,7 @@
 # Burger Website Demo
 Status:  (in progress)
 
-This repository contains the source code for a burger website created using HTML, CSS This website is designed to showcase various types of burgers along with their ingredients and allow users to place orders online.
+This repository contains the source code for a burger website created using HTML, and CSS This website is designed to showcase various types of burgers along with their ingredients and allow users to place orders online.
 
 ## Features
 
@@ -19,7 +19,7 @@ To view the website locally:
 2. Navigate to the project directory: `cd burger-website`
 3. Open `index.html` in your web browser.
 
-Alternatively, you can view the live demo [here](#).
+
 
 ## Contributing
 
@@ -45,8 +45,6 @@ This project was inspired by [Burger Point](http://burgercorner.com) and utilize
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at [my-email](mailto:abdulkaleem84214@gmail.com).
 
 ---
-
-Feel free to customize this README according to your project specifics, adding more details or sections as needed.
